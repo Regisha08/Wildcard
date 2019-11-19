@@ -1,26 +1,21 @@
-Pixel Art Generator
+The Great Color Game.
 
-The project was created for individuals to use their creativity to create fun or useful images using pixels. I wanted to create something visual with an artistic attribute that will draw users attention. Begin your experience by selecting the size of the grid you desire and start using the pixels to display your artist abilites.
+The project was created for guessing color in RGB.
 
 Installing
 Step 1: Copy the Repository
 Step 2: Git clone the repository onto your command line
 Step 3: CD into your repository
-Step 4: Open the Pixelart.html file into the browser(Firefox or internet explorer commonly used)
+Step 4: Open the colorGame.html file into the browser.
 Step 5: You can either open the file from the editor or copy and paste the path of the file into the browser.
 Step 6: Browser should be displayed and ready for execution.
 
 Getting Started
-1. Once you have the file open on the browser you'll be able to create your pixel art.
-2. Using the "Choose Grid Size" application you can adjust the grid to you preferred needs.
-3. By selecting the box under "Pick a Color" you'll be able to select any color you prefer from the color chart.
-4. After you've selected the size and color, you can select the desired boxes you want to use to create your art.
-5. You can go back to the color scheme and change the colors as many times as needed.
-
-Licensing
-
-1. gpl
-
+1. Once you have the file open on the browser you'll be able to play the game.
+2.
+3.
+4.
+5.
 
 ![Image 1](images/im1.png)
 
@@ -28,6 +23,9 @@ Licensing
 
 ![Image 3](images/im3.png)
 
-![Image 4](images/pag4.png)
+#### Sources
 
-![Image 5](images/pag5.png)
+
+* [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
+* [JavaScript Tutorial](hhttps://www.w3schools.com/js/)
+* [CSS Tutorial](https://www.tutorialspoint.com/css/index.htm)
