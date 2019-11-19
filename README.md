@@ -31,3 +31,5 @@ Getting Started
 * [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
 * [JavaScript Tutorial](https://www.w3schools.com/js/)
 * [CSS Tutorial](https://www.tutorialspoint.com/css/index.htm)
+
+Copyright © 2019 Regisha08
